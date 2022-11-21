@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
  
- <h1 align="center">Hi 👋, I'm Imran</h1>
-<h3 align="center">I'm a scientist by profession. Transitioning into tech.</h3>
+ <h1 align="left">Hi 👋, I'm Imran</h1>
+<h3 align="left">I'm a scientist by profession. Transitioning into tech.</h3>
 
 - 🌱 I’m currently learning **React**
 
