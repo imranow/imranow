@@ -3,9 +3,9 @@
 </div>  
  
  <h1 align="left">Hi 👋, I'm Imran</h1>
-<h3 align="left">I'm a scientist by profession. Transitioning into tech.</h3>
+<h3 align="left">I'm a Data Scientist.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI/Machine Learning**
 
 - 📫 How to reach me **tanbirimran@gmail.com**
 
