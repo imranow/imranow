@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tanbirimran@gmail.com**
 
-<h3 align="left">Connect with me: @codingimran</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
